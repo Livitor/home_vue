@@ -1,16 +1,9 @@
 [
   {
     "name": "博客",
-    "url": "https://livitor.github.io/",
+    "url": "https://livitor.github.io/blogs",
     "icon": "fa fa-blog"
   },
-  /*
-  {
-    "name": "雨云",
-    "url": "https://www.rainyun.com/Lin_",
-    "icon": "fa fa-cloud "
-  },
-  */
   {
     "name": "图床",
     "url": "https://dev.ruom.top",
